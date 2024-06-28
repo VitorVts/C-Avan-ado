@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/25-Params/bin/Debug/net8.0/25-Params
+/home/vts/C-Avan-ado/25-Params/bin/Debug/net8.0/25-Params.deps.json
+/home/vts/C-Avan-ado/25-Params/bin/Debug/net8.0/25-Params.runtimeconfig.json
+/home/vts/C-Avan-ado/25-Params/bin/Debug/net8.0/25-Params.dll
+/home/vts/C-Avan-ado/25-Params/bin/Debug/net8.0/25-Params.pdb
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.AssemblyInfo.cs
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.sourcelink.json
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.dll
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/refint/25-Params.dll
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.pdb
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/25-Params.genruntimeconfig.cache
+/home/vts/C-Avan-ado/25-Params/obj/Debug/net8.0/ref/25-Params.dll

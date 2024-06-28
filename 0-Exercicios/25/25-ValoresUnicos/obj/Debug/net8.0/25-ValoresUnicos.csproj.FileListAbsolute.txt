@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/bin/Debug/net8.0/25-ValoresUnicos
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/bin/Debug/net8.0/25-ValoresUnicos.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/bin/Debug/net8.0/25-ValoresUnicos.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/bin/Debug/net8.0/25-ValoresUnicos.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/bin/Debug/net8.0/25-ValoresUnicos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/refint/25-ValoresUnicos.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/25-ValoresUnicos.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-ValoresUnicos/obj/Debug/net8.0/ref/25-ValoresUnicos.dll

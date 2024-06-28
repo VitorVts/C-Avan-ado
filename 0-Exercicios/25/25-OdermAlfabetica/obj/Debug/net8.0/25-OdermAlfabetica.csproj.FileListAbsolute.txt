@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/bin/Debug/net8.0/25-OdermAlfabetica
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/bin/Debug/net8.0/25-OdermAlfabetica.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/bin/Debug/net8.0/25-OdermAlfabetica.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/bin/Debug/net8.0/25-OdermAlfabetica.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/bin/Debug/net8.0/25-OdermAlfabetica.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/refint/25-OdermAlfabetica.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/25-OdermAlfabetica.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-OdermAlfabetica/obj/Debug/net8.0/ref/25-OdermAlfabetica.dll

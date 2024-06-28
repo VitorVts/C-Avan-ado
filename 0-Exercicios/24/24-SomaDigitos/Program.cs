@@ -16,8 +16,8 @@
             while (numero != 0)
             {
                 soma += numero % 10;
-                System.Console.WriteLine(soma); // Obtém o último dígito e adiciona à soma
-                numero /= 10; // Remove o último dígito do número
+                System.Console.WriteLine(soma);
+                numero /= 10;
             }
 
             return soma;

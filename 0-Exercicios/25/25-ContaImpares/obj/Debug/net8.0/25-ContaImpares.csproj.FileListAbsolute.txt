@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/bin/Debug/net8.0/25-ContaImpares
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/bin/Debug/net8.0/25-ContaImpares.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/bin/Debug/net8.0/25-ContaImpares.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/bin/Debug/net8.0/25-ContaImpares.dll
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/bin/Debug/net8.0/25-ContaImpares.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.dll
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/refint/25-ContaImpares.dll
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/25-ContaImpares.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/25-ContaImpares/obj/Debug/net8.0/ref/25-ContaImpares.dll

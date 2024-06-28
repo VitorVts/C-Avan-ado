@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/bin/Debug/net8.0/25-StringsDelimitadas
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/bin/Debug/net8.0/25-StringsDelimitadas.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/bin/Debug/net8.0/25-StringsDelimitadas.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/bin/Debug/net8.0/25-StringsDelimitadas.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/bin/Debug/net8.0/25-StringsDelimitadas.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/refint/25-StringsDelimitadas.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/25-StringsDelimitadas.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-StringsDelimitadas/obj/Debug/net8.0/ref/25-StringsDelimitadas.dll

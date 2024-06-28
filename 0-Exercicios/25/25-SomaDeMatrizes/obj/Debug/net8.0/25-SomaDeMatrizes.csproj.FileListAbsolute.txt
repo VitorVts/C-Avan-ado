@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/bin/Debug/net8.0/25-SomaDeMatrizes
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/bin/Debug/net8.0/25-SomaDeMatrizes.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/bin/Debug/net8.0/25-SomaDeMatrizes.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/bin/Debug/net8.0/25-SomaDeMatrizes.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/bin/Debug/net8.0/25-SomaDeMatrizes.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/refint/25-SomaDeMatrizes.dll
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.pdb
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/25-SomaDeMatrizes.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/25/25-SomaDeMatrizes/obj/Debug/net8.0/ref/25-SomaDeMatrizes.dll

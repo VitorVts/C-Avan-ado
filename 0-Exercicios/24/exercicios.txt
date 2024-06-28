@@ -1,0 +1,40 @@
+1.Calcular a média de uma lista de números:
+
+Crie um método que receba uma lista de números inteiros 
+e retorne a média desses números.
+
+
+public double CalcularMedia(List<int> numeros)
+
+
+2Verificar se um número é primo:
+
+Crie um método que receba um número inteiro e retorne verdadeiro 
+se o número for primo e falso caso contrário.
+csharp
+Copiar código
+public bool EhPrimo(int numero)
+
+
+3 Encontrar o maior número em um array:
+
+Crie um método que receba um array de números inteiros e retorne o maior número presente nesse array.
+csharp
+Copiar código
+public int EncontrarMaiorNumero(int[] numeros)
+
+
+Reverter uma string:
+
+4 Crie um método que receba uma string e retorne a mesma string com seus caracteres em ordem reversa.
+csharp
+Copiar código
+public string ReverterString(string texto)
+
+
+5 Calcular a soma dos dígitos de um número:
+
+Crie um método que receba um número inteiro e retorne a soma de seus dígitos.
+csharp
+Copiar código
+public int SomarDigitos(int numero)

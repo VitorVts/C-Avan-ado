@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/bin/Debug/net8.0/24-NumeroPrimo
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/bin/Debug/net8.0/24-NumeroPrimo.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/bin/Debug/net8.0/24-NumeroPrimo.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/bin/Debug/net8.0/24-NumeroPrimo.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/bin/Debug/net8.0/24-NumeroPrimo.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/refint/24-NumeroPrimo.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/24-NumeroPrimo.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-NumeroPrimo/obj/Debug/net8.0/ref/24-NumeroPrimo.dll

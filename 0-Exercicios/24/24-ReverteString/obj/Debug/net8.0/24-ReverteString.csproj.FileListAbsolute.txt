@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/bin/Debug/net8.0/24-ReverteString
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/bin/Debug/net8.0/24-ReverteString.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/bin/Debug/net8.0/24-ReverteString.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/bin/Debug/net8.0/24-ReverteString.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/bin/Debug/net8.0/24-ReverteString.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/refint/24-ReverteString.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/24-ReverteString.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-ReverteString/obj/Debug/net8.0/ref/24-ReverteString.dll

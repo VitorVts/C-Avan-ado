@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/24-Metodos/bin/Debug/net8.0/24-Metodos
+/home/vts/C-Avan-ado/24-Metodos/bin/Debug/net8.0/24-Metodos.deps.json
+/home/vts/C-Avan-ado/24-Metodos/bin/Debug/net8.0/24-Metodos.runtimeconfig.json
+/home/vts/C-Avan-ado/24-Metodos/bin/Debug/net8.0/24-Metodos.dll
+/home/vts/C-Avan-ado/24-Metodos/bin/Debug/net8.0/24-Metodos.pdb
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.AssemblyInfo.cs
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.dll
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/refint/24-Metodos.dll
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.pdb
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/24-Metodos.genruntimeconfig.cache
+/home/vts/C-Avan-ado/24-Metodos/obj/Debug/net8.0/ref/24-Metodos.dll

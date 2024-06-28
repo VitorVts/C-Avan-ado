@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/bin/Debug/net8.0/24 MediaLista
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/bin/Debug/net8.0/24 MediaLista.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/bin/Debug/net8.0/24 MediaLista.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/bin/Debug/net8.0/24 MediaLista.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/bin/Debug/net8.0/24 MediaLista.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/refint/24 MediaLista.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/24 MediaLista.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24 MediaLista/obj/Debug/net8.0/ref/24 MediaLista.dll

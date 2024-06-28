@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/bin/Debug/net8.0/24-MaiorNoArray
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/bin/Debug/net8.0/24-MaiorNoArray.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/bin/Debug/net8.0/24-MaiorNoArray.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/bin/Debug/net8.0/24-MaiorNoArray.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/bin/Debug/net8.0/24-MaiorNoArray.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/refint/24-MaiorNoArray.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/24-MaiorNoArray.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-MaiorNoArray/obj/Debug/net8.0/ref/24-MaiorNoArray.dll

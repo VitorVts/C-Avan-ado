@@ -1,0 +1,14 @@
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/bin/Debug/net8.0/24-SomaDigitos
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/bin/Debug/net8.0/24-SomaDigitos.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/bin/Debug/net8.0/24-SomaDigitos.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/bin/Debug/net8.0/24-SomaDigitos.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/bin/Debug/net8.0/24-SomaDigitos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/refint/24-SomaDigitos.dll
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/24-SomaDigitos.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/24/24-SomaDigitos/obj/Debug/net8.0/ref/24-SomaDigitos.dll

@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/bin/Debug/net8.0/28-Classes-e-Objetos
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/bin/Debug/net8.0/28-Classes-e-Objetos.deps.json
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/bin/Debug/net8.0/28-Classes-e-Objetos.runtimeconfig.json
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/bin/Debug/net8.0/28-Classes-e-Objetos.dll
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/bin/Debug/net8.0/28-Classes-e-Objetos.pdb
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.AssemblyInfo.cs
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.sourcelink.json
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.dll
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/refint/28-Classes-e-Objetos.dll
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.pdb
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/28-Classes-e-Objetos.genruntimeconfig.cache
+/home/vts/C-Avan-ado/28-Classes-e-Objetos/obj/Debug/net8.0/ref/28-Classes-e-Objetos.dll

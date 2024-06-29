@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/bin/Debug/net8.0/28-ClasseCarros
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/bin/Debug/net8.0/28-ClasseCarros.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/bin/Debug/net8.0/28-ClasseCarros.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/bin/Debug/net8.0/28-ClasseCarros.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/bin/Debug/net8.0/28-ClasseCarros.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/refint/28-ClasseCarros.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/28-ClasseCarros.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ClasseCarros/obj/Debug/net8.0/ref/28-ClasseCarros.dll

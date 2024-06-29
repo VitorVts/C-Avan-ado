@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/bin/Debug/net8.0/29-Estudantes
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/bin/Debug/net8.0/29-Estudantes.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/bin/Debug/net8.0/29-Estudantes.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/bin/Debug/net8.0/29-Estudantes.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/bin/Debug/net8.0/29-Estudantes.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/refint/29-Estudantes.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/ref/29-Estudantes.dll

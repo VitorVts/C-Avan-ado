@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/bin/Debug/net8.0/28-ContaBanco
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/bin/Debug/net8.0/28-ContaBanco.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/bin/Debug/net8.0/28-ContaBanco.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/bin/Debug/net8.0/28-ContaBanco.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/bin/Debug/net8.0/28-ContaBanco.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/refint/28-ContaBanco.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/28-ContaBanco.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-ContaBanco/obj/Debug/net8.0/ref/28-ContaBanco.dll

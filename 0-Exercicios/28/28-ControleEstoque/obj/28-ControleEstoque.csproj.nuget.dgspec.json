@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/28-ControleEstoque.csproj": {}
+    "C:\\Users\\vitor\\OneDrive\\Pasta Sem Título\\Documents\\CSharp_Advanced\\0-Exercicios\\28\\28-ControleEstoque\\28-ControleEstoque.csproj": {}
   },
   "projects": {
-    "/home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/28-ControleEstoque.csproj": {
+    "C:\\Users\\vitor\\OneDrive\\Pasta Sem Título\\Documents\\CSharp_Advanced\\0-Exercicios\\28\\28-ControleEstoque\\28-ControleEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/28-ControleEstoque.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Pasta Sem Título\\Documents\\CSharp_Advanced\\0-Exercicios\\28\\28-ControleEstoque\\28-ControleEstoque.csproj",
         "projectName": "28-ControleEstoque",
-        "projectPath": "/home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/28-ControleEstoque.csproj",
-        "packagesPath": "/home/vts/.nuget/packages/",
-        "outputPath": "/home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/obj/",
+        "projectPath": "C:\\Users\\vitor\\OneDrive\\Pasta Sem Título\\Documents\\CSharp_Advanced\\0-Exercicios\\28\\28-ControleEstoque\\28-ControleEstoque.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\OneDrive\\Pasta Sem Título\\Documents\\CSharp_Advanced\\0-Exercicios\\28\\28-ControleEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vts/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

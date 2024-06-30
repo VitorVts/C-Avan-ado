@@ -13,3 +13,18 @@
 /home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.pdb
 /home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/29-Estudantes.genruntimeconfig.cache
 /home/vts/C-Avan-ado/0-Exercicios/28/29-Estudantes/obj/Debug/net8.0/ref/29-Estudantes.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\bin\Debug\net8.0\29-Estudantes.exe
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\bin\Debug\net8.0\29-Estudantes.deps.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\bin\Debug\net8.0\29-Estudantes.runtimeconfig.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\bin\Debug\net8.0\29-Estudantes.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\bin\Debug\net8.0\29-Estudantes.pdb
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.sourcelink.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\refint\29-Estudantes.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.pdb
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\29-Estudantes.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-Estudantes\obj\Debug\net8.0\ref\29-Estudantes.dll

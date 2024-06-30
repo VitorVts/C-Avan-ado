@@ -13,3 +13,18 @@
 /home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/obj/Debug/net8.0/28-ControleEstoque.pdb
 /home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/obj/Debug/net8.0/28-ControleEstoque.genruntimeconfig.cache
 /home/vts/C-Avan-ado/0-Exercicios/28/28-ControleEstoque/obj/Debug/net8.0/ref/28-ControleEstoque.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\bin\Debug\net8.0\28-ControleEstoque.exe
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\bin\Debug\net8.0\28-ControleEstoque.deps.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\bin\Debug\net8.0\28-ControleEstoque.runtimeconfig.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\bin\Debug\net8.0\28-ControleEstoque.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\bin\Debug\net8.0\28-ControleEstoque.pdb
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.sourcelink.json
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\refint\28-ControleEstoque.dll
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.pdb
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\28-ControleEstoque.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Pasta Sem Título\Documents\CSharp_Advanced\0-Exercicios\28\28-ControleEstoque\obj\Debug\net8.0\ref\28-ControleEstoque.dll

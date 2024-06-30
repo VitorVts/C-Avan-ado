@@ -122,7 +122,7 @@
                         produtoSelect.ExibirInfo();
                         break;
                     case "X":
-                        Console.WriteLine("Saindo do controle de estoque.");
+                        Console.WriteLine("Saindo do controle de estoque.\n");
                         break;
                     default:
                         Console.WriteLine("Opção inválida.");

@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/bin/Debug/net8.0/28-AumentoSalario
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/bin/Debug/net8.0/28-AumentoSalario.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/bin/Debug/net8.0/28-AumentoSalario.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/bin/Debug/net8.0/28-AumentoSalario.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/bin/Debug/net8.0/28-AumentoSalario.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/refint/28-AumentoSalario.dll
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.pdb
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/28-AumentoSalario.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/28/28-AumentoSalario/obj/Debug/net8.0/ref/28-AumentoSalario.dll

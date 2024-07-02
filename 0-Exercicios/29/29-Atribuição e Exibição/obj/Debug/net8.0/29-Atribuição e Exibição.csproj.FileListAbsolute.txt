@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/bin/Debug/net8.0/29-Atribuição e Exibição
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/bin/Debug/net8.0/29-Atribuição e Exibição.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/bin/Debug/net8.0/29-Atribuição e Exibição.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/bin/Debug/net8.0/29-Atribuição e Exibição.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/bin/Debug/net8.0/29-Atribuição e Exibição.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/refint/29-Atribuição e Exibição.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/29-Atribuição e Exibição.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Atribuição e Exibição/obj/Debug/net8.0/ref/29-Atribuição e Exibição.dll

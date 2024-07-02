@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/bin/Debug/net8.0/29-Construtores_e_Destrutores
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/bin/Debug/net8.0/29-Construtores_e_Destrutores.deps.json
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/bin/Debug/net8.0/29-Construtores_e_Destrutores.runtimeconfig.json
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/bin/Debug/net8.0/29-Construtores_e_Destrutores.dll
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/bin/Debug/net8.0/29-Construtores_e_Destrutores.pdb
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.AssemblyInfo.cs
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.sourcelink.json
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.dll
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/refint/29-Construtores_e_Destrutores.dll
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.pdb
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/29-Construtores_e_Destrutores.genruntimeconfig.cache
+/home/vts/C-Avan-ado/29-Construtores_e_Destrutores/obj/Debug/net8.0/ref/29-Construtores_e_Destrutores.dll

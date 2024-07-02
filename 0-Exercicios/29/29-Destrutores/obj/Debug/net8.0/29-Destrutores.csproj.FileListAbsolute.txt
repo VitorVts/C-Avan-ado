@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/bin/Debug/net8.0/29-Destrutores
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/bin/Debug/net8.0/29-Destrutores.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/bin/Debug/net8.0/29-Destrutores.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/bin/Debug/net8.0/29-Destrutores.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/bin/Debug/net8.0/29-Destrutores.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/refint/29-Destrutores.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/29-Destrutores.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-Destrutores/obj/Debug/net8.0/ref/29-Destrutores.dll

@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/bin/Debug/net8.0/30-Inicializa_Condicional
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/bin/Debug/net8.0/30-Inicializa_Condicional.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/bin/Debug/net8.0/30-Inicializa_Condicional.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/bin/Debug/net8.0/30-Inicializa_Condicional.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/bin/Debug/net8.0/30-Inicializa_Condicional.pdb
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/refint/30-Inicializa_Condicional.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.pdb
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/30-Inicializa_Condicional.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Inicializa_Condicional/obj/Debug/net8.0/ref/30-Inicializa_Condicional.dll

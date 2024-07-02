@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/bin/Debug/net8.0/30-Sobrecarga_de_Construtor
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/bin/Debug/net8.0/30-Sobrecarga_de_Construtor.deps.json
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/bin/Debug/net8.0/30-Sobrecarga_de_Construtor.runtimeconfig.json
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/bin/Debug/net8.0/30-Sobrecarga_de_Construtor.dll
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/bin/Debug/net8.0/30-Sobrecarga_de_Construtor.pdb
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.AssemblyInfo.cs
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.sourcelink.json
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.dll
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/refint/30-Sobrecarga_de_Construtor.dll
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.pdb
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/30-Sobrecarga_de_Construtor.genruntimeconfig.cache
+/home/vts/C-Avan-ado/30-Sobrecarga_de_Construtor/obj/Debug/net8.0/ref/30-Sobrecarga_de_Construtor.dll

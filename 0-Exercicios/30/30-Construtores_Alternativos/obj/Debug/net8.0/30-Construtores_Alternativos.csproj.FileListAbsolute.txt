@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/bin/Debug/net8.0/30-Construtores_Alternativos
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/bin/Debug/net8.0/30-Construtores_Alternativos.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/bin/Debug/net8.0/30-Construtores_Alternativos.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/bin/Debug/net8.0/30-Construtores_Alternativos.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/bin/Debug/net8.0/30-Construtores_Alternativos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/refint/30-Construtores_Alternativos.dll
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.pdb
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/30-Construtores_Alternativos.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/30/30-Construtores_Alternativos/obj/Debug/net8.0/ref/30-Construtores_Alternativos.dll

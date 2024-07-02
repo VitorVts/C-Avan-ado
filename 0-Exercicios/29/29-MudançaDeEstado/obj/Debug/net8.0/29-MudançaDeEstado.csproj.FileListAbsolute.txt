@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/bin/Debug/net8.0/29-MudançaDeEstado
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/bin/Debug/net8.0/29-MudançaDeEstado.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/bin/Debug/net8.0/29-MudançaDeEstado.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/bin/Debug/net8.0/29-MudançaDeEstado.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/bin/Debug/net8.0/29-MudançaDeEstado.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/refint/29-MudançaDeEstado.dll
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.pdb
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/29-MudançaDeEstado.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/29/29-MudançaDeEstado/obj/Debug/net8.0/ref/29-MudançaDeEstado.dll

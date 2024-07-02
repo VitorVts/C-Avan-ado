@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/bin/Debug/net8.0/32-DiferenciaParametro
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/bin/Debug/net8.0/32-DiferenciaParametro.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/bin/Debug/net8.0/32-DiferenciaParametro.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/bin/Debug/net8.0/32-DiferenciaParametro.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/bin/Debug/net8.0/32-DiferenciaParametro.pdb
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/refint/32-DiferenciaParametro.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.pdb
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/32-DiferenciaParametro.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-DiferenciaParametro/obj/Debug/net8.0/ref/32-DiferenciaParametro.dll

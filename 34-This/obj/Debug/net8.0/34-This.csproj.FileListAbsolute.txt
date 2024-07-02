@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/34-This/bin/Debug/net8.0/34-This
+/home/vts/C-Avan-ado/34-This/bin/Debug/net8.0/34-This.deps.json
+/home/vts/C-Avan-ado/34-This/bin/Debug/net8.0/34-This.runtimeconfig.json
+/home/vts/C-Avan-ado/34-This/bin/Debug/net8.0/34-This.dll
+/home/vts/C-Avan-ado/34-This/bin/Debug/net8.0/34-This.pdb
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.AssemblyInfo.cs
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.sourcelink.json
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.dll
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/refint/34-This.dll
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.pdb
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/34-This.genruntimeconfig.cache
+/home/vts/C-Avan-ado/34-This/obj/Debug/net8.0/ref/34-This.dll

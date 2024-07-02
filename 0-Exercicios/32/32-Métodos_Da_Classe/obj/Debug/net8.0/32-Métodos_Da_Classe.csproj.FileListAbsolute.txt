@@ -1,0 +1,15 @@
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.AssemblyInfoInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.AssemblyInfo.cs
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.csproj.CoreCompileInputs.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.sourcelink.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/bin/Debug/net8.0/32-Métodos_Da_Classe
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/bin/Debug/net8.0/32-Métodos_Da_Classe.deps.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/bin/Debug/net8.0/32-Métodos_Da_Classe.runtimeconfig.json
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/bin/Debug/net8.0/32-Métodos_Da_Classe.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/bin/Debug/net8.0/32-Métodos_Da_Classe.pdb
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/refint/32-Métodos_Da_Classe.dll
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.pdb
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/32-Métodos_Da_Classe.genruntimeconfig.cache
+/home/vts/C-Avan-ado/0-Exercicios/32/32-Métodos_Da_Classe/obj/Debug/net8.0/ref/32-Métodos_Da_Classe.dll

@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/bin/Debug/net8.0/13-Polimorfismo
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/bin/Debug/net8.0/13-Polimorfismo.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/bin/Debug/net8.0/13-Polimorfismo.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/bin/Debug/net8.0/13-Polimorfismo.dll
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/bin/Debug/net8.0/13-Polimorfismo.pdb
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.dll
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/refint/13-Polimorfismo.dll
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.pdb
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/13-Polimorfismo.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/13-Polimorfismo/obj/Debug/net8.0/ref/13-Polimorfismo.dll

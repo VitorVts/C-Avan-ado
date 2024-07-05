@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/bin/Debug/net8.0/12-3
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/bin/Debug/net8.0/12-3.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/bin/Debug/net8.0/12-3.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/bin/Debug/net8.0/12-3.dll
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/bin/Debug/net8.0/12-3.pdb
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.dll
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/refint/12-3.dll
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.pdb
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/12-3.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/Exercicios/12-3/obj/Debug/net8.0/ref/12-3.dll

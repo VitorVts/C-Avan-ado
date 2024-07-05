@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/bin/Debug/net8.0/12-Herança
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/bin/Debug/net8.0/12-Herança.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/bin/Debug/net8.0/12-Herança.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/bin/Debug/net8.0/12-Herança.dll
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/bin/Debug/net8.0/12-Herança.pdb
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.dll
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/refint/12-Herança.dll
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.pdb
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/12-Herança.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/12-Herança/obj/Debug/net8.0/ref/12-Herança.dll

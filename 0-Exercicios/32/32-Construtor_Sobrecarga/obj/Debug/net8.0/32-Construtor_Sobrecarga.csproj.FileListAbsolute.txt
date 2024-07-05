@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/bin/Debug/net8.0/32-Construtor_Sobrecarga
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/bin/Debug/net8.0/32-Construtor_Sobrecarga.deps.json
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/bin/Debug/net8.0/32-Construtor_Sobrecarga.runtimeconfig.json
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/bin/Debug/net8.0/32-Construtor_Sobrecarga.dll
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/bin/Debug/net8.0/32-Construtor_Sobrecarga.pdb
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.sourcelink.json
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.dll
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/refint/32-Construtor_Sobrecarga.dll
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.pdb
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/32-Construtor_Sobrecarga.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/0-Exercicios/32/32-Construtor_Sobrecarga/obj/Debug/net8.0/ref/32-Construtor_Sobrecarga.dll

@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/11-This/bin/Debug/net8.0/11-This
+/home/vts/CSharp_Advanced/C#-Poo/11-This/bin/Debug/net8.0/11-This.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/11-This/bin/Debug/net8.0/11-This.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/11-This/bin/Debug/net8.0/11-This.dll
+/home/vts/CSharp_Advanced/C#-Poo/11-This/bin/Debug/net8.0/11-This.pdb
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.dll
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/refint/11-This.dll
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.pdb
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/11-This.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/11-This/obj/Debug/net8.0/ref/11-This.dll

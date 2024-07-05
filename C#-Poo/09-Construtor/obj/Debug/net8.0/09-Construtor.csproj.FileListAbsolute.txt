@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/bin/Debug/net8.0/09-Construtor
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/bin/Debug/net8.0/09-Construtor.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/bin/Debug/net8.0/09-Construtor.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/bin/Debug/net8.0/09-Construtor.dll
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/bin/Debug/net8.0/09-Construtor.pdb
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.dll
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/refint/09-Construtor.dll
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.pdb
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/09-Construtor.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/09-Construtor/obj/Debug/net8.0/ref/09-Construtor.dll

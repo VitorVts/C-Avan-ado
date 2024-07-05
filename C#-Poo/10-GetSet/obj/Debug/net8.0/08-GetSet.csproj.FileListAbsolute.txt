@@ -1,0 +1,15 @@
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.GeneratedMSBuildEditorConfig.editorconfig
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.AssemblyInfoInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.AssemblyInfo.cs
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.csproj.CoreCompileInputs.cache
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.sourcelink.json
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/bin/Debug/net8.0/08-GetSet
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/bin/Debug/net8.0/08-GetSet.deps.json
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/bin/Debug/net8.0/08-GetSet.runtimeconfig.json
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/bin/Debug/net8.0/08-GetSet.dll
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/bin/Debug/net8.0/08-GetSet.pdb
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.dll
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/refint/08-GetSet.dll
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.pdb
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/08-GetSet.genruntimeconfig.cache
+/home/vts/CSharp_Advanced/C#-Poo/08-GetSet/obj/Debug/net8.0/ref/08-GetSet.dll

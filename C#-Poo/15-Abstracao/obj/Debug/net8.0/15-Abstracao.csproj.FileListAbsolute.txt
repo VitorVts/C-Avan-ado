@@ -1,0 +1,15 @@
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\bin\Debug\net8.0\15-Abstracao.exe
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\bin\Debug\net8.0\15-Abstracao.deps.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\bin\Debug\net8.0\15-Abstracao.runtimeconfig.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\bin\Debug\net8.0\15-Abstracao.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\bin\Debug\net8.0\15-Abstracao.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.AssemblyInfoInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.AssemblyInfo.cs
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.sourcelink.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\refint\15-Abstracao.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\15-Abstracao.genruntimeconfig.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\15-Abstracao\obj\Debug\net8.0\ref\15-Abstracao.dll

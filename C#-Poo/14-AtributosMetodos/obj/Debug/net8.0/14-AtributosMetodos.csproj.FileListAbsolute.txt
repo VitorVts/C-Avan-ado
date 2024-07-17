@@ -1,0 +1,15 @@
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.AssemblyInfoInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.AssemblyInfo.cs
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.sourcelink.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\bin\Debug\net8.0\14-AtributosMetodos.exe
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\bin\Debug\net8.0\14-AtributosMetodos.deps.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\bin\Debug\net8.0\14-AtributosMetodos.runtimeconfig.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\bin\Debug\net8.0\14-AtributosMetodos.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\bin\Debug\net8.0\14-AtributosMetodos.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\refint\14-AtributosMetodos.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\14-AtributosMetodos.genruntimeconfig.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\14-AtributosMetodos\obj\Debug\net8.0\ref\14-AtributosMetodos.dll

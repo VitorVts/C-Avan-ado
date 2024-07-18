@@ -1,0 +1,15 @@
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\bin\Debug\net8.0\16-Interfaces.exe
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\bin\Debug\net8.0\16-Interfaces.deps.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\bin\Debug\net8.0\16-Interfaces.runtimeconfig.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\bin\Debug\net8.0\16-Interfaces.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\bin\Debug\net8.0\16-Interfaces.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.AssemblyInfoInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.AssemblyInfo.cs
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.sourcelink.json
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\refint\16-Interfaces.dll
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.pdb
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\16-Interfaces.genruntimeconfig.cache
+C:\Users\Vts\Documents\CSharp_Advanced\C#-Poo\16-Interfaces\obj\Debug\net8.0\ref\16-Interfaces.dll

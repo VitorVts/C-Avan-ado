@@ -1,0 +1,15 @@
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\bin\Debug\net8.0\1Carro.exe
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\bin\Debug\net8.0\1Carro.deps.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\bin\Debug\net8.0\1Carro.runtimeconfig.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\bin\Debug\net8.0\1Carro.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\bin\Debug\net8.0\1Carro.pdb
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.AssemblyInfoInputs.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.AssemblyInfo.cs
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.csproj.CoreCompileInputs.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.sourcelink.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\refint\1Carro.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.pdb
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\1Carro.genruntimeconfig.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\1Carro\obj\Debug\net8.0\ref\1Carro.dll

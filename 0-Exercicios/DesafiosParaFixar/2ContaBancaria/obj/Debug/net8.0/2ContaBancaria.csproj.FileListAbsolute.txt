@@ -1,0 +1,15 @@
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.AssemblyInfo.cs
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.sourcelink.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\bin\Debug\net8.0\2ContaBancaria.exe
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\bin\Debug\net8.0\2ContaBancaria.deps.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\bin\Debug\net8.0\2ContaBancaria.runtimeconfig.json
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\bin\Debug\net8.0\2ContaBancaria.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\bin\Debug\net8.0\2ContaBancaria.pdb
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\refint\2ContaBancaria.dll
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.pdb
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\2ContaBancaria.genruntimeconfig.cache
+C:\Users\Vts\Documents\Dev\CSharp_Advanced\0-Exercicios\DesafiosParaFixar\2ContaBancaria\obj\Debug\net8.0\ref\2ContaBancaria.dll
